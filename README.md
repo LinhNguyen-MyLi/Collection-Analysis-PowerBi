@@ -25,7 +25,7 @@ Some definition of financial terms which help you deeply understand the meaning 
 Stakeholder of the bank want to know the effectiveness of debt collection of their partners. Base on the result stakeholder launch an efficent strategy for next fiscal quarter.
 
 ## **Solution:**
-Please first read file ***"Apply Design Thinking into Problem Solving Bank X case"*** to see how this method tackle the task question related to Bank X case. After that you can open file PowerBi Dashboard  ***"Dashboard Collection Analysis ver 1"*** or ***"Dashboard Collection Analysis ver 2"***.
+Please first read file ***"Procedure of applying Design Thinking into Problem Solving Bank X case"*** to see how this method tackle the task question related to Bank X case. After that you can open file PowerBi Dashboard  ***"Dashboard Collection Analysis ver 1"*** or ***"Dashboard Collection Analysis ver 2"***.
 
 ## **Note:** 
  - The difference between 02 version is how the data is interpreted (not about the design) but both of them generate the same insight which will be present below.
