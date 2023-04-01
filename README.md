@@ -31,8 +31,9 @@ Please first read file ***"Apply Design Thinking into Problem Solving Bank X cas
  - The difference between 02 version is how the data is interpreted (not about the design) but both of them generate the same insight which will be present below.
  
 ## **Insight about the effectiveness of debt collection:**
+
 "Overview:
- - 44% of debt is over 1080 days (~3 years); 27% of debt is ranging from 720 - 1080 days (~ 2-3 years) and the rest is all Deadloans.
+ - 44% of debt is over 1080 days ( >3 years); 27% of debt is from 720 to 1080 days (2-3 years) and the rest is all Deadloans.
  - Creadit card product has the highest rate of payment (0.17%) and the following is Overdraft product (0.10%).
  - Secured loan product has the lowest rate of payment (0.02%) and it's ranked the third-highest outstanding balance, valued at 41 billion dollars. NDC company is the most successful collector related to this kind of product, their debt recovery rate is 0.03%. In 12/2020, the bank witness the highest debt recovery rate for this product (0.06%). In 10/2020, NDC company collect the most amount of payment which is over 950 million dollars. In 12/2020, FBI company collect the most amount of payment for the product which is over 1.1 billion dollars.
  - Unsecurred loan product has the highest amount of debt, which is account for nearly 50% of total debt, debt recovery average rate for this product is 0.07%. GLX, HMK and ASA are companies that well perform in collection payment for this product.
