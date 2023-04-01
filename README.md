@@ -70,7 +70,7 @@ Detail:
  + GLX: Overdraft, HHB, Unsecured Loan
  + FBI: HHB, Secured Loan
  - Launch ranking strategy: give reward for those companies that have outstanding performance.												
-
+***Please make proper credit if you want to use all my content (except the dataset)***
 
 
 
