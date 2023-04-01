@@ -49,8 +49,8 @@ Detail:
 "TOP 2: ASA company
  - Debt recovery average rate: 0.11%
  - Their rate is unstable, in 2021 their rate fluctuated in the corresponding period last year: 
- + 1 and 2/2021: debt recovery rate lower than the rate of same period last year, in detail, 1/2020 = 0.2%, 1/2021 = 0.14%; 2/2020 = 0.28%, 2/2021 = 0.06%
- + 3, 4 and 5/2021: debt recovery rate is improved which increased significant, in detail, 3/2020 = 0.15%, 3/2021 = 0.17%; 4/2020 = 0.08, 4/2021 = 0.12%; 5/2020 = 0.11%, 5/2021 = 0.06%
+    + 1 and 2/2021: debt recovery rate lower than the rate of same period last year, in detail, 1/2020 = 0.2%, 1/2021 = 0.14%; 2/2020 = 0.28%, 2/2021 = 0.06%
+    + 3, 4 and 5/2021: debt recovery rate is improved which increased significant, in detail, 3/2020 = 0.15%, 3/2021 = 0.17%; 4/2020 = 0.08, 4/2021 = 0.12%; 5/2020 = 0.11%, 5/2021 = 0.06%
  - ASA collect effectively with Overdraft product, their debt recovery rate is 0.26%													
 
 
@@ -64,12 +64,18 @@ Detail:
 				
 ## **Recomendation for Bank X based on generated insights:**
 
-"- Allocation debt portfolio according to their strongest point:
- + NDC: Other, Credit Card, Secured Loan
- + ASA: Overdraft, Unsecured Loan
- + GLX: Overdraft, HHB, Unsecured Loan
- + FBI: HHB, Secured Loan
-- Launch ranking strategy: give reward for those companies that have outstanding performance.												
+- Launch ranking strategy: give reward for those companies that have outstanding performance.
+
+- Allocation debt portfolio according to their strongest point:
+ 
+   + NDC: Other, Credit Card, Secured Loan
+ 
+   + ASA: Overdraft, Unsecured Loan
+ 
+   + GLX: Overdraft, HHB, Unsecured Loan
+ 
+   + FBI: HHB, Secured Loan
+												
 
 
 
