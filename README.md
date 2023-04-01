@@ -1,6 +1,6 @@
 # Collection_Anlysis_PowerBi
 ## **Introduction:** 
-We have a dataset Operation System Collection Performance of a Bank X. One of their main core activities is collection debt via several smaller companies. 
+We have a dataset Operation Collection Performance of a Bank X in 2020 and 2021. One of their main core activities is collection debt via several smaller companies (co-opperators). 
 
 ## **Dataset structure:** 
 
@@ -54,9 +54,22 @@ Detail:
 
 
 "TOP 3: GLX company
- - Tỉ lệ thu hồi nợ TB: 0.11%
- - GLX có tỉ lệ thu hồi nợ của năm 2021 giảm mạnh so với năm 2020
- - SP thế mạnh là Overdraft và HHB"														
+ - Debt recovery average rate: 0.11%. Their rate dropped dramatic in 2021
+ - Their adventage is Overdraft và HHB products.
+ 
+ " Others:
+ - Debt recovery rates 2021 of GLX, HNA, DK and AMG have an positive trend compare to 2021.
+ - Debt recovery rate of FBI is quite low (0.03%), its adventage is HHB product.
+				
+## **Recomendation for Bank X based on generated insights:**
+
+"- Allocation debt portfolio according to their strongest point:
+ + NDC: Other, Credit Card, Secured Loan
+ + ASA: Overdraft, Unsecured Loan
+ + GLX: Overdraft, HHB, Unsecured Loan
+ + FBI: HHB, Secured Loan
+ - Launch ranking strategy: give reward for those companies that have outstanding performance.												
+
 
 
 
